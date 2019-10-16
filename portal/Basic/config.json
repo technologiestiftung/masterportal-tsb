@@ -1,10 +1,10 @@
 {
 	"Portalconfig": {
 		"portalTitle": {
-			"title": "Basic - Portal",
-			"logo": "./ressources/img/hh-logo.png",
-			"link": "https://geoinfo.hamburg.de",
-			"tooTtip": "Landesbetrieb Geoinformation und Vermessung"
+			"title": "TSB Masterportal",
+			"logo": "./ressources/img/tsb-logo.png",
+			"link": "https://xxx.de",
+			"tooTtip": "Technologiestiftung Berlin"
 		},
 		"treeType": "light",
 		"searchBar": {
@@ -15,15 +15,16 @@
 				"states": "Hamburg",
 				"classes": "place,highway,building,shop,historic,leisure,city,county"
 			},
-      "visibleVector": {},
-      "tree": {},
+			"visibleVector": {},
+			"tree": {},
 			"zoomLevel": 9,
 			"placeholder": "Suche nach: - Adresse - Aktiven WFS"
 		},
 		"mapView": {
 			"backgroundImage": "./ressources/img/backgroundCanvas.jpeg",
-			"startCenter": [561210, 5932600],
-			"extent": [510000.0, 5850000.0, 625000.4, 6000000.0],
+			"epsg": "EPSG:25833",
+			"startCenter": [392000, 5820059],
+			"extent": [369097.85, 5799298.14, 416865.04, 5838236.21],
 			"zoomLevel": 1
 		},
 		"menu": {
@@ -86,89 +87,51 @@
 		"Hintergrundkarten": {
 			"Layer": [
 				{
-          "id": "453",
-          "name": "Stadtplan",
+					"id": "453",
+					"name": "Stadtplan",
 					"visibility": true
-				},
-				{
-          "id": "452",
-          "name": "Luftbilder DOP 20"
-				},
-				{
-					"id": ["717", "718", "719", "720", "13712", "13709", "13714", "13716"],
-					"name": "Geobasiskarten (farbig)"
 				}
 			]
 		},
 		"Fachdaten": {
 			"Layer": [
 				{
-          "id": "2426",
-          "name": "Bezirke",
-          "layerAttribution": "<span>Hier Text angeben, der angezeigt wird sobald der Layer sichtbar ist.</span>"
+					"id": "2426",
+					"name": "Bezirke",
+					"layerAttribution": "<span>Hier Text angeben, der angezeigt wird sobald der Layer sichtbar ist.</span>"
 				},
 				{
-          "id": "4561",
-          "name": "Eventflächen",
-          "infoFormat": "text/html",
-          "maxScale": "100000",
-					"minScale": "40000"
-				},
-				{
-          "id": "3302",
-          "name": "Trinkwasser",
-					"gfiTheme": "trinkwasser"
-				},
-				{
-					"id": "myId2",
-					"children": [
-						{
-							"id": "682"
-						},
-						{
-							"id": "1731"
-						}
-					],
-					"name": "Kita und Krankenhäuser"
-				},
-				{
-          "id": "2003",
-          "name": "WFS Schutzgebiete",
-					"styleId": "2003",
-					"mouseHoverField": "gebietsname"
-				},
-				{
-          "id": "2404",
-          "name": "WFS Bike and Ride Parkplätze",
-					"styleId": "45",
-					"clusterDistance": 40
-				},
-				{
-          "id": "1711",
-          "name": "WFS Krankenhäuser",
+					"id": "11111",
+					"name": "soziale Einrichtungen",
+					"infoFormat": "text/html",
 					"styleId": "1711",
 					"mouseHoverField": "name",
 					"searchField":  "name"
 				},
 				{
-					"id": "8712",
-					"name": "WFS Schulen",
-					"styleId": "8712",
-					"mouseHoverField": ["schulname", "kapitelbezeichnung"],
-					"searchField": ["schulname", "fremdsprache"]
+					"id": "11112",
+					"name": "Schulen",
+					"infoFormat": "text/html",
+					"styleId": "1711",
+					"mouseHoverField": "name",
+					"searchField":  "name"
 				},
 				{
-					"id": "4560",
-					"name": "WFS Polygon (Default Style)"
+					"id": "1711",
+					"name": "WFS Krankenhäuser",
+					"styleId": "1711",
+					"mouseHoverField": "name",
+					"searchField":  "name"
 				},
 				{
-					"id": "1132",
-					"name": "WFS Point (Default Style)"
-				},
-				{
-					"id": "1133",
-					"name": "WFS Line (Default Style)"
+					"id": "11113",
+					"name": "Schulen2",
+					"infoFormat": "text/html",
+					"styleId": "1711",
+					"mouseHoverField": "name",
+					"searchField":  "name"
 				}
+				
 			]
 		}
 	}
