@@ -68,7 +68,7 @@
   {
     "id" : "11111",
     "name" : "soziale Einrichtungen",
-    "url" : "./portal/Basic/ressources/data/spandau-soz.geojson",
+    "url" : "./ressources/data/spandau-soz.geojson",
     "typ" : "GeoJSON",
     "gfiAttributes" : "showAll",
     "layerAttribution" : "nicht vorhanden",
@@ -77,7 +77,7 @@
  {
   "id" : "11113",
   "name" : "Schulen2",
-  "url" : "./portal/Basic/ressources/data/schulen.json",
+  "url" : "./ressources/data/schulen.json",
   "typ" : "GeoJSON",
   "gfiAttributes" : "showAll",
   "layerAttribution" : "nicht vorhanden",
