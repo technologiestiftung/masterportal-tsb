@@ -3,7 +3,7 @@
 		"portalTitle": {
 			"title": "TSB Masterportal",
 			"logo": "./ressources/img/tsb-logo.png",
-			"link": "https://xxx.de",
+			"link": "http://masterportal.lab.technologiestiftung-berlin.de",
 			"tooTtip": "Technologiestiftung Berlin"
 		},
 		"treeType": "light",

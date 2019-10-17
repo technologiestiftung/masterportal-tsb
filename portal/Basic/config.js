@@ -9,7 +9,7 @@ const Config = {
         urls: [
             {
                 "bezeichnung": "TSB: ",
-                "url": "https://www.xxx.de/",
+                "url": "http://masterportal.lab.technologiestiftung-berlin.de",
                 "alias": "TSB",
                 "alias_mobil": "TSB"
             }

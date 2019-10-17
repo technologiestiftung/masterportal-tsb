@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^fbinter_stadt-berlin_de/(.*)$ /proxy.php?domain=fbinter.stadt-berlin.de&uri=$1 [P,QSA]
