@@ -86,11 +86,6 @@
 	"Themenconfig": {
 		"Hintergrundkarten": {
 			"Layer": [
-				{
-					"id": "453",
-					"name": "Stadtplan",
-					"visibility": true
-				}
 			]
 		},
 		"Fachdaten": {
