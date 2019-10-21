@@ -110,21 +110,6 @@
 					"styleId": "1711",
 					"mouseHoverField": "name",
 					"searchField":  "name"
-				},
-				{
-					"id": "1711",
-					"name": "WFS Krankenhäuser",
-					"styleId": "1711",
-					"mouseHoverField": "name",
-					"searchField":  "name"
-				},
-				{
-					"id": "11113",
-					"name": "Schulen2",
-					"infoFormat": "text/html",
-					"styleId": "1711",
-					"mouseHoverField": "name",
-					"searchField":  "name"
 				}
 				
 			]

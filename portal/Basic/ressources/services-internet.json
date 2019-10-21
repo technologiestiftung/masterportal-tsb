@@ -73,14 +73,5 @@
     "gfiAttributes" : "showAll",
     "layerAttribution" : "nicht vorhanden",
     "legendURL" : ""
- },
- {
-  "id" : "11113",
-  "name" : "Schulen2",
-  "url" : "./ressources/data/schulen.json",
-  "typ" : "GeoJSON",
-  "gfiAttributes" : "showAll",
-  "layerAttribution" : "nicht vorhanden",
-  "legendURL" : ""
-}
+ }
 ]
