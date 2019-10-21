@@ -12,7 +12,7 @@
 				"minChars": 3,
 				"serviceId": "10",
 				"limit": 60,
-				"states": "Hamburg",
+				"states": "Berlin",
 				"classes": "place,highway,building,shop,historic,leisure,city,county"
 			},
 			"visibleVector": {},
