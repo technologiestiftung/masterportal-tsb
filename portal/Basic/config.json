@@ -108,7 +108,7 @@
 						"searchInMapExtent": false,
 						"predefinedRules": [
 							{
-								"attrName": "kapitelbezeichnung",
+								"attrName": "art_angebot",
 								"values": [
 									"Jugendfreizeiteinrichtung",
 									"Familienzentrum",
@@ -119,6 +119,46 @@
 									"Kontaktstelle",
 									"Treffpunkt",
 									"Beratung",
+									"Schülerhaus",
+									"Pädagogischer Spielplatz"
+								]
+							}
+						],
+						"attributeWhiteList": [
+							{
+								"name": "bezirksregion",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "angebot",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "zielgruppe_alter",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "zielgruppe_gender",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "zielgruppe_themenspezifisch",
+								"matchingMode": "AND"
+							}
+							
+						]
+					},
+					{
+						"layerId": "11111",
+						"isActive": false,
+						"isSelected": false,
+						"name": "Kinder und Jugendeinrichtungen",
+						"searchInMapExtent": false,
+						"predefinedRules": [
+							{
+								"attrName": "art_angebot",
+								"values": [
+									"Jugendfreizeiteinrichtung",
 									"Schülerhaus",
 									"Pädagogischer Spielplatz"
 								]
@@ -145,19 +185,20 @@
 								"name": "angebot",
 								"matchingMode": "AND"
 							}
+							
 						]
 					},
 					{
 						"layerId": "11111",
 						"isActive": false,
 						"isSelected": false,
-						"name": "Jugendfreizeiteinrichtungchulen",
+						"name": "Familienzentrum",
 						"searchInMapExtent": false,
 						"predefinedRules": [
 							{
-								"attrName": "kapitelbezeichnung",
+								"attrName": "art_angebot",
 								"values": [
-									"Jugendfreizeiteinrichtung"
+									"Familienzentrum"
 								]
 							}
 						],
@@ -182,6 +223,237 @@
 								"name": "angebot",
 								"matchingMode": "AND"
 							}
+							
+						]
+					},
+					{
+						"layerId": "11111",
+						"isActive": false,
+						"isSelected": false,
+						"name": "Seniorentreff",
+						"searchInMapExtent": false,
+						"predefinedRules": [
+							{
+								"attrName": "art_angebot",
+								"values": [
+									"Seniorentreff"
+								]
+							}
+						],
+						"attributeWhiteList": [
+							{
+								"name": "bezirksregion",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "zielgruppe_alter",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "zielgruppe_gender",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "zielgruppe_themenspezifisch",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "angebot",
+								"matchingMode": "AND"
+							}
+							
+						]
+					},
+					{
+						"layerId": "11111",
+						"isActive": false,
+						"isSelected": false,
+						"name": "Selbsthilfetreffpunkt",
+						"searchInMapExtent": false,
+						"predefinedRules": [
+							{
+								"attrName": "art_angebot",
+								"values": [
+									"Selbsthilfetreffpunkt"
+								]
+							}
+						],
+						"attributeWhiteList": [
+							{
+								"name": "bezirksregion",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "zielgruppe_alter",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "zielgruppe_gender",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "zielgruppe_themenspezifisch",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "angebot",
+								"matchingMode": "AND"
+							}
+							
+						]
+					},
+					{
+						"layerId": "11111",
+						"isActive": false,
+						"isSelected": false,
+						"name": "Beratung",
+						"searchInMapExtent": false,
+						"predefinedRules": [
+							{
+								"attrName": "art_angebot",
+								"values": [
+									"Beratung",
+									"Kontaktstelle",
+									"Kontakstelle"
+								]
+							}
+						],
+						"attributeWhiteList": [
+							{
+								"name": "bezirksregion",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "zielgruppe_alter",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "zielgruppe_gender",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "zielgruppe_themenspezifisch",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "angebot",
+								"matchingMode": "AND"
+							}
+							
+						]
+					},
+					{
+						"layerId": "11111",
+						"isActive": false,
+						"isSelected": false,
+						"name": "Treffpunkt",
+						"searchInMapExtent": false,
+						"predefinedRules": [
+							{
+								"attrName": "art_angebot",
+								"values": [
+									"Treffpunkt"
+								]
+							}
+						],
+						"attributeWhiteList": [
+							{
+								"name": "bezirksregion",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "zielgruppe_alter",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "zielgruppe_gender",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "zielgruppe_themenspezifisch",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "angebot",
+								"matchingMode": "AND"
+							}
+							
+						]
+					},
+					{
+						"layerId": "11111",
+						"isActive": false,
+						"isSelected": false,
+						"name": "Stadtteilzentrum",
+						"searchInMapExtent": false,
+						"predefinedRules": [
+							{
+								"attrName": "art_angebot",
+								"values": [
+									"Stadtteilzentrum"
+								]
+							}
+						],
+						"attributeWhiteList": [
+							{
+								"name": "bezirksregion",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "zielgruppe_alter",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "zielgruppe_gender",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "zielgruppe_themenspezifisch",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "angebot",
+								"matchingMode": "AND"
+							}
+							
+						]
+					},
+					{
+						"layerId": "11111",
+						"isActive": false,
+						"isSelected": false,
+						"name": "Veranstaltung",
+						"searchInMapExtent": false,
+						"predefinedRules": [
+							{
+								"attrName": "art_angebot",
+								"values": [
+									"Veranstaltung"
+								]
+							}
+						],
+						"attributeWhiteList": [
+							{
+								"name": "bezirksregion",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "zielgruppe_alter",
+								"matchingMode": "OR"
+							},
+							{
+								"name": "zielgruppe_gender",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "zielgruppe_themenspezifisch",
+								"matchingMode": "AND"
+							},
+							{
+								"name": "angebot",
+								"matchingMode": "AND"
+							}
+							
 						]
 					}
 				]
@@ -210,8 +482,10 @@
 				{
 					"id": "11111",
 					"name": "soziale Einrichtungen",
+					"visibility": true,
+					"styleId": "11111",
+					"gfiTheme": "schulinfo",
 					"infoFormat": "text/html",
-					"styleId": "1711",
 					"mouseHoverField": "name",
 					"searchField": "name"
 				},
@@ -220,7 +494,7 @@
 					"name": "Schulen",
 					"infoFormat": "text/html",
 					"styleId": "1711",
-					"mouseHoverField": "name",
+					"mouseHoverField": "NAME",
 					"searchField": "name"
 				}
 			]
