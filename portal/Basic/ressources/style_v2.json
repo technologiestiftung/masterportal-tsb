@@ -32,37 +32,57 @@
     "polygonFillColor": [10, 200, 0, 0.2]
   },
     {
-    "layerId" : "8712",
+    "layerId" : "11111",
     "class": "POINT",
     "subClass" : "CUSTOM",
     "imageScale" : "0.6",
     "imageWidth": 40,
     "imageHeight": 40,
-    "styleField": "kapitelbezeichnung",
+    "styleField": "art_angebot",
     "styleFieldValues": [
       {
-        "styleFieldValue": "Grundschulen",
-        "imageName" : "grundschulen.png"
+        "styleFieldValue": "Jugendfreizeiteinrichtung",
+        "imageName" : "schule.png"
       },
       {
-        "styleFieldValue": "Gymnasien",
-        "imageName" : "gymnasien.png"
+        "styleFieldValue": "Familienzentrum",
+        "imageName" : "schule.png"
       },
       {
-        "styleFieldValue": "Stadtteilschulen",
-        "imageName" : "stadtteilschulen.png"
+        "styleFieldValue": "Seniorentreff",
+        "imageName" : "schule.png"
       },
       {
-        "styleFieldValue": "Sonderschulen",
-        "imageName" : "sonderschulen.png"
+        "styleFieldValue": "Selbsthilfetreffpunkt",
+        "imageName" : "schule.png"
       },
       {
-        "styleFieldValue": "Berufliche Schulen",
-        "imageName" : "berufliche_schulen.png"
+        "styleFieldValue": "Stadtteilzentrum",
+        "imageName" : "schule.png"
       },
       {
-        "styleFieldValue": "Langformschulen",
-        "imageName" : "langformschulen.png"
+        "styleFieldValue": "Veranstaltung",
+        "imageName" : "schule.png"
+      },
+      {
+        "styleFieldValue": "Kontaktstelle",
+        "imageName" : "schule.png"
+      },
+      {
+        "styleFieldValue": "Treffpunkt",
+        "imageName" : "schule.png"
+      },
+      {
+        "styleFieldValue": "Beratung",
+        "imageName" : "schule.png"
+      },
+      {
+        "styleFieldValue": "Schülerhaus",
+        "imageName" : "schule.png"
+      },
+      {
+        "styleFieldValue": "BerPädagogischer Spielplatzatung",
+        "imageName" : "schule.png"
       }
     ]
   }
