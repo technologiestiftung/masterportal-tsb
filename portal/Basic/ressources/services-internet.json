@@ -70,8 +70,24 @@
     "name" : "soziale Einrichtungen",
     "url" : "./ressources/data/spandau-soz.geojson",
     "typ" : "GeoJSON",
-    "gfiAttributes" : "showAll",
+    "gfiAttributes" : {
+      "name": "Einrichtung",
+      "art_einrichtung": "Art der Einrichtung",
+      "bezeichnung": "Bezeichnung",
+      "traeger": "Träger",
+      "art_angebot": "Art des Angebots",
+      "link": "Link",
+      "telefon": "Telefon",
+      "email": "E-Mail",
+      "adresse": "Adresse",
+      "bezirksregion": "Bezirksregion",
+      "angebote": "Angebote",
+      "angebot": "Angebot",
+      "zielgruppe_alter": "Zielgruppe (Alter)",
+      "zielgruppe_gender": "Zielgruppe (Gender)",
+      "zielgruppe_themenspezifisch": "Zielgruppe (Themenspezifisch)"
+    },
     "layerAttribution" : "nicht vorhanden",
     "legendURL" : ""
- }
+  }
 ]
