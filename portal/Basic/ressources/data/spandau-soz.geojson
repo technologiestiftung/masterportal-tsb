@@ -11,8 +11,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "05010001",
                 "ID": 13,
+                "PRISMA-ID": "05010001",
                 "name": "Jugendfreizeiteinrichtung Aalemannufer",
                 "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
                 "bezeichnung": "Vielfältige Angebote für Kinder und Jugendliche ",
@@ -30,8 +30,8 @@
                     {
                         "angebot": "Spielen und Basteln, Versuchs- und Kräutergarten, Wo-chenendangebote, Durchführung von Gruppenfahrten, Ferienprogramme, ökopädagogischer Schwerpunkt",
                         "zielgruppe_alter": [
-                            "Jugendliche",
                             "Senioren",
+                            "Jugendliche",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -42,290 +42,21 @@
                             "Schüler (inkl. Grundschüler)"
                         ]
                     }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2196323274,
-                    52.5563995609
-                ]
-            },
-            "properties": {
-                "PRISMA-ID": "05010003",
-                "ID": 17,
-                "name": "Jugendtreff Havelspitze",
-                "art_einrichtung": "Wichtiger Akteur im Bezirk",
-                "bezeichnung": "Vielfältige Angebote für Kinder und Jugendliche ",
-                "traeger": "Bezirksamt Spandau ",
-                "art_angebot": "Jugendfreizeiteinrichtung",
-                "link": "http://jugendtreff-havelspitze.de/",
-                "telefon": "030 33939743",
-                "email": "office@jfe-aalemannufer.de",
-                "adresse": "Hugo-Cassirer-Straße 2, 13587 Berlin",
-                "strasse": "Hugo-Cassirer-Straße 2",
-                "plz": "13587",
-                "stadt": "Berlin",
-                "bezirksregion": "BZR Hakenfelde",
-                "angebote": [
-                    {
-                        "angebot": "Spiel, Sport, Hausaufgabenhilfe, Kochen und Backen, Integrationstreff, Ferienprogramm",
-                        "zielgruppe_alter": [
-                            "Jugendliche",
-                            "Senioren",
-                            "Kinder"
-                        ],
-                        "zielgruppe_gender": [
-                            "Mann",
-                            "Frau"
-                        ],
-                        "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)"
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2278306869,
-                    52.5467624309
-                ]
-            },
-            "properties": {
-                "PRISMA-ID": "05030005",
-                "ID": 20,
-                "name": "Jugendzentrum Haveleck",
-                "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
-                "bezeichnung": "Vielfältige Angebote für Kinder und Jugendliche ",
-                "traeger": "Bezirksamt Spandau ",
-                "art_angebot": "Jugendfreizeiteinrichtung",
-                "link": "http://www.haveleck.de/index.php",
-                "telefon": "030 351 353 41",
-                "email": "achim@heidke.de",
-                "adresse": "Pulvermühlenweg 10\n13599 Berlin ",
-                "strasse": "Pulvermühlenweg 10\n",
-                "plz": "13599",
-                "stadt": "Berlin",
-                "bezirksregion": "BZR Haselhorst",
-                "angebote": [
-                    {
-                        "angebot": "Kochen, Backen, Sportangebote, Hausaufgabenhilfe ",
-                        "zielgruppe_alter": [
-                            "Jugendliche",
-                            "Senioren",
-                            "Kinder"
-                        ],
-                        "zielgruppe_gender": [
-                            "Mann",
-                            "Frau"
-                        ],
-                        "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)"
-                        ]
-                    },
-                    {
-                        "angebot": "Gemeinsames Kochen ",
-                        "zielgruppe_alter": [
-                            "Jugendliche",
-                            "Senioren",
-                            "Kinder"
-                        ],
-                        "zielgruppe_gender": [
-                            "Mann",
-                            "Frau"
-                        ],
-                        "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)"
-                        ]
-                    },
-                    {
-                        "angebot": "Tischtennis",
-                        "zielgruppe_alter": [
-                            "Jugendliche",
-                            "Senioren",
-                            "Kinder"
-                        ],
-                        "zielgruppe_gender": [
-                            "Mann",
-                            "Frau"
-                        ],
-                        "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)"
-                        ]
-                    },
-                    {
-                        "angebot": "Schülerclub (Hausaufgabenhilfe)",
-                        "zielgruppe_alter": [
-                            "Jugendliche",
-                            "Senioren",
-                            "Kinder"
-                        ],
-                        "zielgruppe_gender": [
-                            "Mann",
-                            "Frau"
-                        ],
-                        "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)"
-                        ]
-                    },
-                    {
-                        "angebot": "Familiensport (Grundschule an der Pulvermühle)",
-                        "zielgruppe_alter": [
-                            "Jugendliche",
-                            "Senioren",
-                            "Kinder"
-                        ],
-                        "zielgruppe_gender": [
-                            "Mann",
-                            "Frau"
-                        ],
-                        "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)",
-                            "Eltern / Familien",
-                            "Väter",
-                            "Mütter"
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.230531239,
-                    52.542672802
-                ]
-            },
-            "properties": {
-                "PRISMA-ID": "05030006",
-                "ID": 63,
-                "name": "Spielhaus  Goldbeckweg 6 ",
-                "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
-                "bezeichnung": "Pädagogischer Spielplatz",
-                "traeger": "Akzent e.V.",
-                "art_angebot": "Pädagogischer Spielplatz",
-                "link": "http://spielhaus.haveleck.de/",
-                "telefon": "030/351 353 41",
-                "email": "achim@heidke.de",
-                "adresse": "Goldbeckweg 6, 13599 Berlin ",
-                "strasse": "Goldbeckweg 6",
-                "plz": "13599",
-                "stadt": "Berlin",
-                "bezirksregion": "BZR Haselhorst",
-                "angebote": [
-                    {
-                        "angebot": "In dem Haus befinden sich ein großer Gemeinschaftsraum, ein Gruppenraum, eine Küche und eine Holzwerkstatt.Tischtennis, Gartenarbeit, Elterncafé, Familiensport",
-                        "zielgruppe_alter": [
-                            "Erwachsene",
-                            "Kinder"
-                        ],
-                        "zielgruppe_gender": [
-                            "Mann",
-                            "Frau"
-                        ],
-                        "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)",
-                            "Mütter",
-                            "Väter"
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.1406512362,
-                    52.4520451756
-                ]
-            },
-            "properties": {
-                "PRISMA-ID": "05040010",
-                "ID": 45,
-                "name": "CHANCE IM JUGENDFREIZEITHEIM KLADOW",
-                "art_einrichtung": "Einrichtung für Kinder, Jugendliche und Familien",
-                "bezeichnung": "Vielfältige Angebote für Kinder und Jugendliche ",
-                "traeger": "CHANCE - Bildung, Jugend und Sport BJS gGmbH",
-                "art_angebot": "Jugendfreizeiteinrichtung",
-                "link": "http://www.jufa-kladow.de/",
-                "telefon": " 030 50918066     ",
-                "email": "jufa@chance-berlin.com",
-                "adresse": "Parnemannweg 22\n14089 Berlin",
-                "strasse": "Parnemannweg 22\n",
-                "plz": "14089",
-                "stadt": "Berlin",
-                "bezirksregion": "BZR Gatow/Kladow",
-                "angebote": [
-                    {
-                        "angebot": "Beratungsgespräche:  Gesprächsangebote für Jugendliche / Familien und Alleinerziehende\nHilfe zur Antragsstellung Schwerbehindertenausweis; SGB II; Wohngeld; Jugendhilfe (Einzelfallhelfer) WBS; Ordnen von Unterlagen\n- Beratung und Unterstützung in der Suche nach Praktika; Lehrstellen sowie Hilfe bei Lebenslauf und Bewerbung\n  Übergang Schule / Beruf",
-                        "zielgruppe_alter": [
-                            "Jugendliche",
-                            "Senioren",
-                            "Kinder"
-                        ],
-                        "zielgruppe_gender": [
-                            "Mann",
-                            "Frau"
-                        ],
-                        "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)"
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2670622516,
-                    52.5385226386
-                ]
-            },
-            "properties": {
-                "PRISMA-ID": "05040018",
-                "ID": 35,
-                "name": "Schülerhaus",
-                "art_einrichtung": "Wichtiger Akteur im Bezirk",
-                "bezeichnung": "Vielfältige Angebote für Kinder und Jugendliche ",
-                "traeger": "Sozial-Kulturelle Netzwerke casa e.V.",
-                "art_angebot": "Jugendfreizeiteinrichtung",
-                "link": "https://www.casa-ev.de/de/18-kinder-und-jugendarbeit/sch%C3%BClerhaus.html",
-                "telefon": "030 - 383 926 43 ",
-                "email": "schuelerhaus@casa-ev.de ",
-                "adresse": "Lenther Steig 3-5, 13629 Berlin",
-                "strasse": "Lenther Steig 3-5",
-                "plz": "13629",
-                "stadt": "Berlin",
-                "bezirksregion": "BZR Siemensstadt",
-                "angebote": [
-                    {
-                        "angebot": "Kunst, Gewalt- und Drogenprävention, Berufsfindungsangebote, gemeinsames Kochen, Inklusion",
-                        "zielgruppe_alter": [
-                            "Jugendliche",
-                            "Senioren",
-                            "Kinder"
-                        ],
-                        "zielgruppe_gender": [
-                            "Mann",
-                            "Frau"
-                        ],
-                        "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)"
-                        ]
-                    }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Schüler (inkl. Grundschüler)"
+                ],
+                "angebot": [
+                    "Spielen und Basteln, Versuchs- und Kräutergarten, Wo-chenendangebote, Durchführung von Gruppenfahrten, Ferienprogramme, ökopädagogischer Schwerpunkt"
                 ]
             }
         },
@@ -339,8 +70,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 16,
+                "PRISMA-ID": "NaN",
                 "name": "Jugendfreizeiteinrichtung Quader",
                 "art_einrichtung": "Kultur- und weitere Bildungseinrichtung",
                 "bezeichnung": "Vielfältige Angebote für Kinder und Jugendliche ",
@@ -358,8 +89,8 @@
                     {
                         "angebot": "Zur Verfügungsstellung von Musikinstrumenten und Proberäumen, Musikworkshops, Sport- und Musikorientierte Angebote, in den Schulferien besondere Ferienprogramme,",
                         "zielgruppe_alter": [
-                            "Jugendliche",
                             "Senioren",
+                            "Jugendliche",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -370,6 +101,80 @@
                             "Schüler (inkl. Grundschüler)"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Schüler (inkl. Grundschüler)"
+                ],
+                "angebot": [
+                    "Zur Verfügungsstellung von Musikinstrumenten und Proberäumen, Musikworkshops, Sport- und Musikorientierte Angebote, in den Schulferien besondere Ferienprogramme,"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2196323274,
+                    52.5563995609
+                ]
+            },
+            "properties": {
+                "ID": 17,
+                "PRISMA-ID": "05010003",
+                "name": "Jugendtreff Havelspitze",
+                "art_einrichtung": "Wichtiger Akteur im Bezirk",
+                "bezeichnung": "Vielfältige Angebote für Kinder und Jugendliche ",
+                "traeger": "Bezirksamt Spandau ",
+                "art_angebot": "Jugendfreizeiteinrichtung",
+                "link": "http://jugendtreff-havelspitze.de/",
+                "telefon": "030 33939743",
+                "email": "office@jfe-aalemannufer.de",
+                "adresse": "Hugo-Cassirer-Straße 2, 13587 Berlin",
+                "strasse": "Hugo-Cassirer-Straße 2",
+                "plz": "13587",
+                "stadt": "Berlin",
+                "bezirksregion": "BZR Hakenfelde",
+                "angebote": [
+                    {
+                        "angebot": "Spiel, Sport, Hausaufgabenhilfe, Kochen und Backen, Integrationstreff, Ferienprogramm",
+                        "zielgruppe_alter": [
+                            "Senioren",
+                            "Jugendliche",
+                            "Kinder"
+                        ],
+                        "zielgruppe_gender": [
+                            "Mann",
+                            "Frau"
+                        ],
+                        "zielgruppe_themenspezifisch": [
+                            "Schüler (inkl. Grundschüler)"
+                        ]
+                    }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Schüler (inkl. Grundschüler)"
+                ],
+                "angebot": [
+                    "Spiel, Sport, Hausaufgabenhilfe, Kochen und Backen, Integrationstreff, Ferienprogramm"
                 ]
             }
         },
@@ -383,8 +188,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 19,
+                "PRISMA-ID": "NaN",
                 "name": "Familienzentrum Villa Nova",
                 "art_einrichtung": "Wichtiger Akteur im Bezirk",
                 "bezeichnung": "Angebote für Familien ",
@@ -505,6 +310,29 @@
                             "Mütter"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Erwachsene",
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Mütter",
+                    "Eltern / Familien",
+                    "Väter"
+                ],
+                "angebot": [
+                    "Allgemeine Familienberatung (auch in rümanisch u- italienisch)",
+                    "Krabbelgruppe",
+                    "Regelmäßige Angebote für Familien: Krabbelgruppe, Babymassage, Musikgruppe, Tanzgruppe, Nähen, Beratungsangebote ",
+                    "Nähen macht Spaß (Nähkurs)",
+                    "Tanzgruppe f. Kinder",
+                    "Eltern-Kind Tanzgruppe",
+                    "Babymassage",
+                    "Musikgruppe"
                 ]
             }
         },
@@ -518,8 +346,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 19,
+                "PRISMA-ID": "NaN",
                 "name": "Familienzentrum Villa Nova",
                 "art_einrichtung": "Wichtiger Akteur im Bezirk",
                 "bezeichnung": "Angebote für Familien ",
@@ -549,6 +377,158 @@
                             "Mütter"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Erwachsene",
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Mütter",
+                    "Eltern / Familien",
+                    "Väter"
+                ],
+                "angebot": [
+                    "Allgemeine Familienberatung (auch in rümanisch u- italienisch)",
+                    "Krabbelgruppe",
+                    "Regelmäßige Angebote für Familien: Krabbelgruppe, Babymassage, Musikgruppe, Tanzgruppe, Nähen, Beratungsangebote ",
+                    "Nähen macht Spaß (Nähkurs)",
+                    "Tanzgruppe f. Kinder",
+                    "Eltern-Kind Tanzgruppe",
+                    "Babymassage",
+                    "Musikgruppe"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2278306869,
+                    52.5467624309
+                ]
+            },
+            "properties": {
+                "ID": 20,
+                "PRISMA-ID": "05030005",
+                "name": "Jugendzentrum Haveleck",
+                "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
+                "bezeichnung": "Vielfältige Angebote für Kinder und Jugendliche ",
+                "traeger": "Bezirksamt Spandau ",
+                "art_angebot": "Jugendfreizeiteinrichtung",
+                "link": "http://www.haveleck.de/index.php",
+                "telefon": "030 351 353 41",
+                "email": "achim@heidke.de",
+                "adresse": "Pulvermühlenweg 10\n13599 Berlin ",
+                "strasse": "Pulvermühlenweg 10\n",
+                "plz": "13599",
+                "stadt": "Berlin",
+                "bezirksregion": "BZR Haselhorst",
+                "angebote": [
+                    {
+                        "angebot": "Kochen, Backen, Sportangebote, Hausaufgabenhilfe ",
+                        "zielgruppe_alter": [
+                            "Senioren",
+                            "Jugendliche",
+                            "Kinder"
+                        ],
+                        "zielgruppe_gender": [
+                            "Mann",
+                            "Frau"
+                        ],
+                        "zielgruppe_themenspezifisch": [
+                            "Schüler (inkl. Grundschüler)"
+                        ]
+                    },
+                    {
+                        "angebot": "Gemeinsames Kochen ",
+                        "zielgruppe_alter": [
+                            "Senioren",
+                            "Jugendliche",
+                            "Kinder"
+                        ],
+                        "zielgruppe_gender": [
+                            "Mann",
+                            "Frau"
+                        ],
+                        "zielgruppe_themenspezifisch": [
+                            "Schüler (inkl. Grundschüler)"
+                        ]
+                    },
+                    {
+                        "angebot": "Tischtennis",
+                        "zielgruppe_alter": [
+                            "Senioren",
+                            "Jugendliche",
+                            "Kinder"
+                        ],
+                        "zielgruppe_gender": [
+                            "Mann",
+                            "Frau"
+                        ],
+                        "zielgruppe_themenspezifisch": [
+                            "Schüler (inkl. Grundschüler)"
+                        ]
+                    },
+                    {
+                        "angebot": "Schülerclub (Hausaufgabenhilfe)",
+                        "zielgruppe_alter": [
+                            "Senioren",
+                            "Jugendliche",
+                            "Kinder"
+                        ],
+                        "zielgruppe_gender": [
+                            "Mann",
+                            "Frau"
+                        ],
+                        "zielgruppe_themenspezifisch": [
+                            "Schüler (inkl. Grundschüler)"
+                        ]
+                    },
+                    {
+                        "angebot": "Familiensport (Grundschule an der Pulvermühle)",
+                        "zielgruppe_alter": [
+                            "Senioren",
+                            "Jugendliche",
+                            "Kinder"
+                        ],
+                        "zielgruppe_gender": [
+                            "Mann",
+                            "Frau"
+                        ],
+                        "zielgruppe_themenspezifisch": [
+                            "Eltern / Familien",
+                            "Schüler (inkl. Grundschüler)",
+                            "Mütter",
+                            "Väter"
+                        ]
+                    }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Schüler (inkl. Grundschüler)",
+                    "Eltern / Familien",
+                    "Mütter",
+                    "Väter"
+                ],
+                "angebot": [
+                    "Familiensport (Grundschule an der Pulvermühle)",
+                    "Schülerclub (Hausaufgabenhilfe)",
+                    "Gemeinsames Kochen ",
+                    "Tischtennis",
+                    "Kochen, Backen, Sportangebote, Hausaufgabenhilfe "
                 ]
             }
         },
@@ -562,8 +542,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 25,
+                "PRISMA-ID": "NaN",
                 "name": "Seniorentreff Hasselhorster Damm",
                 "art_einrichtung": "Wichtiger Akteur im Bezirk",
                 "bezeichnung": "Vielfältige Angebote für Senioren",
@@ -586,8 +566,8 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Rentner",
-                            "Migranten"
+                            "Migranten",
+                            "Rentner"
                         ]
                     },
                     {
@@ -598,8 +578,8 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Rentner",
-                            "Migranten"
+                            "Migranten",
+                            "Rentner"
                         ]
                     },
                     {
@@ -635,6 +615,22 @@
                             "Rentner"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Migranten",
+                    "Rentner"
+                ],
+                "angebot": [
+                    "El-Ele Türkische Frauengruppe",
+                    "Bingo",
+                    "Gedächtnistraining ",
+                    "Gedächtnistraining, türkische Frauengruppe, Kartenspiele, Bingo, Frühstück, Mittagstisch ",
+                    "Kartenspiele und Schach"
                 ]
             }
         },
@@ -648,8 +644,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 27,
+                "PRISMA-ID": "NaN",
                 "name": "Seniorenwohnhaus St. Stephanus",
                 "art_einrichtung": "Wichtiger Akteur im Bezirk",
                 "bezeichnung": "Vielfältige Angebote für Senioren",
@@ -675,6 +671,17 @@
                             "Migranten"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Migranten"
+                ],
+                "angebot": [
+                    "Seniorenwohnhaus mit  Angeboten für Freizeitaktivitäten und Gesundheitsvorsorge"
                 ]
             }
         },
@@ -688,8 +695,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 29,
+                "PRISMA-ID": "NaN",
                 "name": "CHiP 77",
                 "art_einrichtung": "Wichtiger Akteur im Bezirk",
                 "bezeichnung": "Vielfältige Angebote für Kinder und Jugendliche ",
@@ -707,8 +714,8 @@
                     {
                         "angebot": "Sportangebote, Hausaufgabenhilfe, Kochen und Backen, Fahrradwerkstatt, Internetcafé, Ferienprogramm, Schwerpunkt Berufsorientierung, Brett- und Gesellschaftsspiele",
                         "zielgruppe_alter": [
-                            "Jugendliche",
                             "Senioren",
+                            "Jugendliche",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -722,8 +729,8 @@
                     {
                         "angebot": "Beratung zur Berufsorientierung (Thematik Berufsfindung: Praktika, Bewerbung, Bewerbungsgespräch, Ausbildung) ",
                         "zielgruppe_alter": [
-                            "Jugendliche",
                             "Senioren",
+                            "Jugendliche",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -737,8 +744,8 @@
                     {
                         "angebot": "Schlagzeugkurs",
                         "zielgruppe_alter": [
-                            "Jugendliche",
                             "Senioren",
+                            "Jugendliche",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -752,8 +759,8 @@
                     {
                         "angebot": "Hausaufgabenbetreuung",
                         "zielgruppe_alter": [
-                            "Jugendliche",
                             "Senioren",
+                            "Jugendliche",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -764,6 +771,83 @@
                             "Schüler (inkl. Grundschüler)"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Schüler (inkl. Grundschüler)"
+                ],
+                "angebot": [
+                    "Hausaufgabenbetreuung",
+                    "Schlagzeugkurs",
+                    "Beratung zur Berufsorientierung (Thematik Berufsfindung: Praktika, Bewerbung, Bewerbungsgespräch, Ausbildung) ",
+                    "Sportangebote, Hausaufgabenhilfe, Kochen und Backen, Fahrradwerkstatt, Internetcafé, Ferienprogramm, Schwerpunkt Berufsorientierung, Brett- und Gesellschaftsspiele"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2670622516,
+                    52.5385226386
+                ]
+            },
+            "properties": {
+                "ID": 35,
+                "PRISMA-ID": "05040018",
+                "name": "Schülerhaus",
+                "art_einrichtung": "Wichtiger Akteur im Bezirk",
+                "bezeichnung": "Vielfältige Angebote für Kinder und Jugendliche ",
+                "traeger": "Sozial-Kulturelle Netzwerke casa e.V.",
+                "art_angebot": "Jugendfreizeiteinrichtung",
+                "link": "https://www.casa-ev.de/de/18-kinder-und-jugendarbeit/sch%C3%BClerhaus.html",
+                "telefon": "030 - 383 926 43 ",
+                "email": "schuelerhaus@casa-ev.de ",
+                "adresse": "Lenther Steig 3-5, 13629 Berlin",
+                "strasse": "Lenther Steig 3-5",
+                "plz": "13629",
+                "stadt": "Berlin",
+                "bezirksregion": "BZR Siemensstadt",
+                "angebote": [
+                    {
+                        "angebot": "Kunst, Gewalt- und Drogenprävention, Berufsfindungsangebote, gemeinsames Kochen, Inklusion",
+                        "zielgruppe_alter": [
+                            "Senioren",
+                            "Jugendliche",
+                            "Kinder"
+                        ],
+                        "zielgruppe_gender": [
+                            "Mann",
+                            "Frau"
+                        ],
+                        "zielgruppe_themenspezifisch": [
+                            "Schüler (inkl. Grundschüler)"
+                        ]
+                    }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Schüler (inkl. Grundschüler)"
+                ],
+                "angebot": [
+                    "Kunst, Gewalt- und Drogenprävention, Berufsfindungsangebote, gemeinsames Kochen, Inklusion"
                 ]
             }
         },
@@ -777,8 +861,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 36,
+                "PRISMA-ID": "NaN",
                 "name": "Familienzentrum Rohrdamm",
                 "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
                 "bezeichnung": "Angebote für Familien ",
@@ -951,6 +1035,32 @@
                             "Eltern / Familien"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Erwachsene",
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Mütter",
+                    "Eltern / Familien",
+                    "Väter"
+                ],
+                "angebot": [
+                    "Eltern-Kind-Sport",
+                    "\"Rat und Tat\", Beratung rund um Schwangerschaft, Entbindung, Wochenbett und zur gesunden Entwicklung des Kinds ",
+                    "Eltern-Kind-Gruppe",
+                    "Familienfrühstück",
+                    "Spiel und Sport für junge Menschen",
+                    "Unsere Angebote richten sich schwerpunktmäßig an Familien mit Kindern im Alter von 0 bis 6 Jahren aus dem Siemensstädter Kiez. Auch Flüchtlingsfamilien; Eltern-Kind Gruppen, Beratung, Nähkurse; Stadtteilmütter, Sprachkurse",
+                    "Offenes Elterncafé",
+                    "Offenes Nähcafé und Workshops ",
+                    "Musik für die Allerkleinsten",
+                    "Offenes Stillcafé ",
+                    "Trageberatung "
                 ]
             }
         },
@@ -964,8 +1074,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 37,
+                "PRISMA-ID": "NaN",
                 "name": "Seniorenwohnhaus Siemensstadt",
                 "art_einrichtung": "Einrichtung für Kinder, Jugendliche und Familien",
                 "bezeichnung": "Vielfältige Angebote für Senioren",
@@ -991,6 +1101,17 @@
                             "Migranten"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Migranten"
+                ],
+                "angebot": [
+                    "Wohneinrichtung mit Freizeitangeboten und sozialer Betreuung"
                 ]
             }
         },
@@ -1004,8 +1125,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 38,
+                "PRISMA-ID": "NaN",
                 "name": "Selbsthilfetreffpunkt Siemensstadt",
                 "art_einrichtung": "Wichtiger Akteur im Bezirk",
                 "bezeichnung": "Selbsthilfe",
@@ -1023,9 +1144,9 @@
                     {
                         "angebot": "Supervision und Fortbildung für Mitglieder von Selbsthilfegruppen, ADHS Selbsthilfegruppe, AGUS - Angehörige um Suizid, Borreliose, Depressionsgruppe, Frauengruppe Courage e.V., Kreatives Schreiben - Selbsterfahrung neu gestalten, Literaturgruppe, Anonyme Messies, Borderline Selbsthilfe, Selbsthilfegruppe Sexueller Missbrauch,Selbsthilfegruppe Kleptomanie ",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -1033,18 +1154,18 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Eltern / Familien",
-                            "Angehörige",
-                            "Obdachlose",
-                            "Väter",
-                            "Suchtmittelabhängige",
+                            "Rentner",
                             "Schüler (inkl. Grundschüler)",
+                            "Angehörige",
                             "Mütter",
+                            "Eltern / Familien",
+                            "Suchtmittelabhängige",
+                            "Väter",
+                            "Migranten",
+                            "Erkrankte Meschen (phsychisch & physisch)",
                             "Behinderte",
                             "Arbeitssuchende & Sozialempfänger",
-                            "Rentner",
-                            "Erkrankte Meschen (phsychisch & physisch)",
-                            "Migranten"
+                            "Obdachlose"
                         ]
                     },
                     {
@@ -1196,6 +1317,45 @@
                             "Erkrankte Meschen (phsychisch & physisch)"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Angehörige",
+                    "Mütter",
+                    "Eltern / Familien",
+                    "Suchtmittelabhängige",
+                    "Väter",
+                    "Migranten",
+                    "Erkrankte Meschen (phsychisch & physisch)",
+                    "Behinderte",
+                    "Arbeitssuchende & Sozialempfänger",
+                    "Obdachlose"
+                ],
+                "angebot": [
+                    "ADHS Selbsthilfegruppe",
+                    "Supervision und Fortbildung für Mitglieder von Selbsthilfegruppen, ADHS Selbsthilfegruppe, AGUS - Angehörige um Suizid, Borreliose, Depressionsgruppe, Frauengruppe Courage e.V., Kreatives Schreiben - Selbsterfahrung neu gestalten, Literaturgruppe, Anonyme Messies, Borderline Selbsthilfe, Selbsthilfegruppe Sexueller Missbrauch,Selbsthilfegruppe Kleptomanie ",
+                    "Kreatives Schreiben - Selbsterfahrung neu gestalten",
+                    "Frauengruppe Courage e.V",
+                    "Literaturgruppe",
+                    "Depressionsgruppe",
+                    "AGUS - Angehörige um Suizid",
+                    "Anonyme Messies",
+                    "Borderline Selbsthilfe",
+                    "Borreliose",
+                    "Supervision und Fortbildung für Mitglieder von Selbsthilfegruppen",
+                    "Selbsthilfegruppe Kleptomanie ",
+                    "Selbsthilfegruppe Sexueller Missbrauch"
                 ]
             }
         },
@@ -1209,8 +1369,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 39,
+                "PRISMA-ID": "NaN",
                 "name": "Stadtteilzentrum Siemensstadt/Stadtteilbüro Siemensstadt ",
                 "art_einrichtung": "Wichtiger Akteur im Bezirk",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -1233,18 +1393,18 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Eltern / Familien",
-                            "Angehörige",
-                            "Obdachlose",
-                            "Väter",
-                            "Suchtmittelabhängige",
+                            "Rentner",
                             "Schüler (inkl. Grundschüler)",
+                            "Angehörige",
                             "Mütter",
+                            "Eltern / Familien",
+                            "Suchtmittelabhängige",
+                            "Väter",
+                            "Migranten",
+                            "Erkrankte Meschen (phsychisch & physisch)",
                             "Behinderte",
                             "Arbeitssuchende & Sozialempfänger",
-                            "Rentner",
-                            "Erkrankte Meschen (phsychisch & physisch)",
-                            "Migranten"
+                            "Obdachlose"
                         ]
                     },
                     {
@@ -1263,9 +1423,9 @@
                     {
                         "angebot": "Erstberatung zu Wohnungs-/Arbeitssuche",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
-                            "Jugendliche",
-                            "Senioren"
+                            "Jugendliche"
                         ],
                         "zielgruppe_gender": [
                             "Mann",
@@ -1279,9 +1439,9 @@
                     {
                         "angebot": "Kommunikation mit Behörden und Alltagsfragen\nfür Geflüchtete",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
-                            "Jugendliche",
-                            "Senioren"
+                            "Jugendliche"
                         ],
                         "zielgruppe_gender": [
                             "Mann",
@@ -1442,6 +1602,49 @@
                         ],
                         "zielgruppe_themenspezifisch": []
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Angehörige",
+                    "Mütter",
+                    "Eltern / Familien",
+                    "Suchtmittelabhängige",
+                    "Väter",
+                    "Migranten",
+                    "Erkrankte Meschen (phsychisch & physisch)",
+                    "Behinderte",
+                    "Arbeitssuchende & Sozialempfänger",
+                    "Obdachlose"
+                ],
+                "angebot": [
+                    "PC-Workshop für Senior*innen",
+                    "Internationale Kochgruppe in Siemensstadt",
+                    "Kommunikation mit Behörden und Alltagsfragen\nfür Geflüchtete",
+                    "Erstberatung zu Wohnungs-/Arbeitssuche",
+                    "Café International for Women",
+                    "Interkulturelles Frühstück",
+                    "Bingo und Brunch für ältere Menschen",
+                    "Frauengruppe 50+",
+                    "Freiwilligenagentur",
+                    "Kreatives Schreiben",
+                    "Rechtsberatung",
+                    "Allgemeine Sozialberatung",
+                    "Sprachkurse (englisch, italienisch, spanisch)",
+                    "Bildungspatenschaftsprojekt für Grundschulkinder",
+                    "Selbsthilfegruppe Demenzkranke",
+                    "allgemeine Sozialberatung; Erstberatung zu Wohnungs-/Arbeitssuche, Kommunikation mit Behörden und Alltagsfragen\nfür Geflüchtete; Rechtsberatung; Café International for Women; Gesprächskreis für polnischsprachige Menschen (auf deutsch und polnisch); Interkulturelles Frühstück; Internationale Kochgruppe in Siemensstadt, Bildungspatenschaftsprojekt für Grundschulkinder, Bingo und Brunch für ältere Menschen, Sprachkurse (englisch, italienisch, spanisch), PC-Workshop für Senior*innen, Selbsthilfegruppe Demenzkranke, Frauengruppe 50+, Kreatives Schreiben, Freiwilligenagentur",
+                    "Gesprächskreis für polnischsprachige Menschen (auf deutsch und polnisch)"
                 ]
             }
         },
@@ -1455,8 +1658,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 43,
+                "PRISMA-ID": "NaN",
                 "name": "Länderabend - Arabien",
                 "art_einrichtung": "Wichtiger Akteur im Bezirk",
                 "bezeichnung": "Integration",
@@ -1484,6 +1687,19 @@
                             "Migranten"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Migranten"
+                ],
+                "angebot": [
+                    "Zusammen mit dem marokkanischen Verein „Generationen“ (in Gründung), veranstaltet das\nStadtteilbüro Siemensstadt einen arabischen Länderabend mit Essen, Musik und Kultur. Lernen\nSie die Menschen, Kultur und nicht zuletzt die gastronomischen Genüsse aus Marokko, Tunesien, Syrien und anderen Ländern kennen."
                 ]
             }
         },
@@ -1497,8 +1713,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 44,
+                "PRISMA-ID": "NaN",
                 "name": "Kontaktstelle PflegeEngagement im Stadtteilzentrum Siemensstadt",
                 "art_einrichtung": "Wichtiger Akteur im Bezirk",
                 "bezeichnung": "Kontaktstelle",
@@ -1516,9 +1732,9 @@
                     {
                         "angebot": "Hiernach wird der Aufbau von Strukturen des pflegeflankierenden freiwilligen Engagements und\nder Selbsthilfe unterstützt.\nWir fördern kleine, wohnortnahe Initiativen oder Gruppen, die sich für Pflegebedürftige aller\nPflegestufen, Menschen mit Demenz, mit geistigen Behinderungen oder psychischen\nErkrankungen sowie für Betreuende und Pflegende engagieren.Angebote: Malen, Pflegeberatung (auch russischsprachig), Medizinische Beratung, Café Treffpunkt (Café Komplett), Singen, Ehrenamtsqualifizierung, Spazierganggruppe, Tanz ",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -1526,18 +1742,18 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Eltern / Familien",
-                            "Obdachlose",
-                            "Väter",
-                            "Erkrankte Meschen (phsychisch & physisch)",
-                            "Suchtmittelabhängige",
+                            "Rentner",
                             "Schüler (inkl. Grundschüler)",
+                            "Angehörige",
                             "Mütter",
+                            "Eltern / Familien",
+                            "Suchtmittelabhängige",
+                            "Väter",
+                            "Migranten",
+                            "Erkrankte Meschen (phsychisch & physisch)",
                             "Behinderte",
                             "Arbeitssuchende & Sozialempfänger",
-                            "Rentner",
-                            "Angehörige",
-                            "Migranten"
+                            "Obdachlose"
                         ]
                     },
                     {
@@ -1571,16 +1787,16 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Angehörige",
-                            "Erkrankte Meschen (phsychisch & physisch)"
+                            "Erkrankte Meschen (phsychisch & physisch)",
+                            "Angehörige"
                         ]
                     },
                     {
                         "angebot": "Café Treffpunkt (Café Komplett)",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -1631,6 +1847,100 @@
                             "Rentner"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Angehörige",
+                    "Mütter",
+                    "Eltern / Familien",
+                    "Suchtmittelabhängige",
+                    "Väter",
+                    "Migranten",
+                    "Erkrankte Meschen (phsychisch & physisch)",
+                    "Behinderte",
+                    "Arbeitssuchende & Sozialempfänger",
+                    "Obdachlose"
+                ],
+                "angebot": [
+                    "Gemeinsames Singen",
+                    "Café Treffpunkt (Café Komplett)",
+                    "Spazierganggruppe",
+                    "Ehrenamtsqualifizierung",
+                    "Tanzgruppe ",
+                    "Malkurs",
+                    "Medizinische Beratung",
+                    "Pflegeberatung (auch russischsprachig)",
+                    "Hiernach wird der Aufbau von Strukturen des pflegeflankierenden freiwilligen Engagements und\nder Selbsthilfe unterstützt.\nWir fördern kleine, wohnortnahe Initiativen oder Gruppen, die sich für Pflegebedürftige aller\nPflegestufen, Menschen mit Demenz, mit geistigen Behinderungen oder psychischen\nErkrankungen sowie für Betreuende und Pflegende engagieren.Angebote: Malen, Pflegeberatung (auch russischsprachig), Medizinische Beratung, Café Treffpunkt (Café Komplett), Singen, Ehrenamtsqualifizierung, Spazierganggruppe, Tanz "
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1406512362,
+                    52.4520451756
+                ]
+            },
+            "properties": {
+                "ID": 45,
+                "PRISMA-ID": "05040010",
+                "name": "CHANCE IM JUGENDFREIZEITHEIM KLADOW",
+                "art_einrichtung": "Einrichtung für Kinder, Jugendliche und Familien",
+                "bezeichnung": "Vielfältige Angebote für Kinder und Jugendliche ",
+                "traeger": "CHANCE - Bildung, Jugend und Sport BJS gGmbH",
+                "art_angebot": "Jugendfreizeiteinrichtung",
+                "link": "http://www.jufa-kladow.de/",
+                "telefon": " 030 50918066     ",
+                "email": "jufa@chance-berlin.com",
+                "adresse": "Parnemannweg 22\n14089 Berlin",
+                "strasse": "Parnemannweg 22\n",
+                "plz": "14089",
+                "stadt": "Berlin",
+                "bezirksregion": "BZR Gatow/Kladow",
+                "angebote": [
+                    {
+                        "angebot": "Beratungsgespräche:  Gesprächsangebote für Jugendliche / Familien und Alleinerziehende\nHilfe zur Antragsstellung Schwerbehindertenausweis; SGB II; Wohngeld; Jugendhilfe (Einzelfallhelfer) WBS; Ordnen von Unterlagen\n- Beratung und Unterstützung in der Suche nach Praktika; Lehrstellen sowie Hilfe bei Lebenslauf und Bewerbung\n  Übergang Schule / Beruf",
+                        "zielgruppe_alter": [
+                            "Senioren",
+                            "Jugendliche",
+                            "Kinder"
+                        ],
+                        "zielgruppe_gender": [
+                            "Mann",
+                            "Frau"
+                        ],
+                        "zielgruppe_themenspezifisch": [
+                            "Schüler (inkl. Grundschüler)"
+                        ]
+                    }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Schüler (inkl. Grundschüler)"
+                ],
+                "angebot": [
+                    "Beratungsgespräche:  Gesprächsangebote für Jugendliche / Familien und Alleinerziehende\nHilfe zur Antragsstellung Schwerbehindertenausweis; SGB II; Wohngeld; Jugendhilfe (Einzelfallhelfer) WBS; Ordnen von Unterlagen\n- Beratung und Unterstützung in der Suche nach Praktika; Lehrstellen sowie Hilfe bei Lebenslauf und Bewerbung\n  Übergang Schule / Beruf"
                 ]
             }
         },
@@ -1644,8 +1954,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 49,
+                "PRISMA-ID": "NaN",
                 "name": "HD-Café ",
                 "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
                 "bezeichnung": "Treffpunkt",
@@ -1684,18 +1994,18 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)",
                             "Eltern / Familien",
-                            "Väter",
-                            "Mütter"
+                            "Schüler (inkl. Grundschüler)",
+                            "Mütter",
+                            "Väter"
                         ]
                     },
                     {
                         "angebot": "Mittagstisch",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -1703,26 +2013,26 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Eltern / Familien",
-                            "Angehörige",
-                            "Obdachlose",
-                            "Väter",
-                            "Suchtmittelabhängige",
+                            "Rentner",
                             "Schüler (inkl. Grundschüler)",
+                            "Angehörige",
                             "Mütter",
+                            "Eltern / Familien",
+                            "Suchtmittelabhängige",
+                            "Väter",
+                            "Migranten",
+                            "Erkrankte Meschen (phsychisch & physisch)",
                             "Behinderte",
                             "Arbeitssuchende & Sozialempfänger",
-                            "Rentner",
-                            "Erkrankte Meschen (phsychisch & physisch)",
-                            "Migranten"
+                            "Obdachlose"
                         ]
                     },
                     {
                         "angebot": "Kiezcafé",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -1764,6 +2074,39 @@
                             "Erkrankte Meschen (phsychisch & physisch)"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Angehörige",
+                    "Arbeitssuchende & Sozialempfänger",
+                    "Schüler (inkl. Grundschüler)",
+                    "Eltern / Familien",
+                    "Suchtmittelabhängige",
+                    "Väter",
+                    "Migranten",
+                    "Erkrankte Meschen (phsychisch & physisch)",
+                    "Behinderte",
+                    "Mütter",
+                    "Obdachlose"
+                ],
+                "angebot": [
+                    "Muntere Mollies+ Traumkurven (Übergewichtselbsthilfegruppe)",
+                    "Eltern-Kind Café, Mittagstisch, Kiezcafé, Singkreis, türkische Frauengruppe, Muntere Mollies+ Traumkurven (Übergewicht)",
+                    "Türkische Frauengruppe",
+                    "Eltern-Kind Café",
+                    "Kiezcafé",
+                    "Mittagstisch",
+                    "Singkreis"
                 ]
             }
         },
@@ -1777,8 +2120,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 57,
+                "PRISMA-ID": "NaN",
                 "name": "Psychologische Beratungsstelle Spandau (Siemensstadt) ",
                 "art_einrichtung": "Kultur- und weitere Bildungseinrichtung",
                 "bezeichnung": "Beratungsangebote zu verschiedenen psychologischen Problemen ",
@@ -1808,6 +2151,21 @@
                             "Mütter"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Eltern / Familien",
+                    "Väter",
+                    "Mütter"
+                ],
+                "angebot": [
+                    "Einzelberatung, Paarberatung, Familienberatung oder Gruppenberatung zu Überforderung, Erziehungsschwierigkeiten, Erziehungsprobleme, Schulschwierigkeiten, Schulprobleme, Erziehungsfragen, Erziehungsprobleme, Pubertät, Trennung und Scheidung, Umgangsregelungen, kindliche Entwicklung, Verhaltensauffälligkeiten, Gewalt, Missbrauch"
                 ]
             }
         },
@@ -1821,8 +2179,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 58,
+                "PRISMA-ID": "NaN",
                 "name": "Evangelische Kirchengemeinde Wichern-Radeland",
                 "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -1840,9 +2198,9 @@
                     {
                         "angebot": "Krabbelgruppe, Sucht-Selbsthilfegruppe (Kreuzbund e.V.), Gymnastik für Frauen, Seniorengruppe, Jugendkreis, Mädchengruppe",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -1851,6 +2209,31 @@
                         ],
                         "zielgruppe_themenspezifisch": []
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Eltern / Familien",
+                    "Obdachlose"
+                ],
+                "angebot": [
+                    "Sucht-Selbsthilfegruppe (Kreuzbund e.V.)",
+                    "Mädchengruppe",
+                    "Gymnastik für Frauen",
+                    "Krabbelgruppe, Sucht-Selbsthilfegruppe (Kreuzbund e.V.), Gymnastik für Frauen, Seniorengruppe, Jugendkreis, Mädchengruppe",
+                    "Krabbelgruppe",
+                    "Jugendkreis",
+                    "Seniorengruppe"
                 ]
             }
         },
@@ -1864,8 +2247,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 58,
+                "PRISMA-ID": "NaN",
                 "name": "Evangelische Kirchengemeinde Wichern-Radeland",
                 "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -1893,6 +2276,31 @@
                             "Eltern / Familien"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Eltern / Familien",
+                    "Obdachlose"
+                ],
+                "angebot": [
+                    "Sucht-Selbsthilfegruppe (Kreuzbund e.V.)",
+                    "Mädchengruppe",
+                    "Gymnastik für Frauen",
+                    "Krabbelgruppe, Sucht-Selbsthilfegruppe (Kreuzbund e.V.), Gymnastik für Frauen, Seniorengruppe, Jugendkreis, Mädchengruppe",
+                    "Krabbelgruppe",
+                    "Jugendkreis",
+                    "Seniorengruppe"
                 ]
             }
         },
@@ -1906,8 +2314,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 58,
+                "PRISMA-ID": "NaN",
                 "name": "Evangelische Kirchengemeinde Wichern-Radeland",
                 "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -1935,6 +2343,31 @@
                             "Obdachlose"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Eltern / Familien",
+                    "Obdachlose"
+                ],
+                "angebot": [
+                    "Sucht-Selbsthilfegruppe (Kreuzbund e.V.)",
+                    "Mädchengruppe",
+                    "Gymnastik für Frauen",
+                    "Krabbelgruppe, Sucht-Selbsthilfegruppe (Kreuzbund e.V.), Gymnastik für Frauen, Seniorengruppe, Jugendkreis, Mädchengruppe",
+                    "Krabbelgruppe",
+                    "Jugendkreis",
+                    "Seniorengruppe"
                 ]
             }
         },
@@ -1948,8 +2381,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 58,
+                "PRISMA-ID": "NaN",
                 "name": "Evangelische Kirchengemeinde Wichern-Radeland",
                 "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -1974,6 +2407,31 @@
                         ],
                         "zielgruppe_themenspezifisch": []
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Eltern / Familien",
+                    "Obdachlose"
+                ],
+                "angebot": [
+                    "Sucht-Selbsthilfegruppe (Kreuzbund e.V.)",
+                    "Mädchengruppe",
+                    "Gymnastik für Frauen",
+                    "Krabbelgruppe, Sucht-Selbsthilfegruppe (Kreuzbund e.V.), Gymnastik für Frauen, Seniorengruppe, Jugendkreis, Mädchengruppe",
+                    "Krabbelgruppe",
+                    "Jugendkreis",
+                    "Seniorengruppe"
                 ]
             }
         },
@@ -1987,8 +2445,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 58,
+                "PRISMA-ID": "NaN",
                 "name": "Evangelische Kirchengemeinde Wichern-Radeland",
                 "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -2016,6 +2474,31 @@
                             "Rentner"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Eltern / Familien",
+                    "Obdachlose"
+                ],
+                "angebot": [
+                    "Sucht-Selbsthilfegruppe (Kreuzbund e.V.)",
+                    "Mädchengruppe",
+                    "Gymnastik für Frauen",
+                    "Krabbelgruppe, Sucht-Selbsthilfegruppe (Kreuzbund e.V.), Gymnastik für Frauen, Seniorengruppe, Jugendkreis, Mädchengruppe",
+                    "Krabbelgruppe",
+                    "Jugendkreis",
+                    "Seniorengruppe"
                 ]
             }
         },
@@ -2029,8 +2512,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 58,
+                "PRISMA-ID": "NaN",
                 "name": "Evangelische Kirchengemeinde Wichern-Radeland",
                 "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -2048,8 +2531,8 @@
                     {
                         "angebot": "Jugendkreis",
                         "zielgruppe_alter": [
-                            "Jugendliche",
-                            "Senioren"
+                            "Senioren",
+                            "Jugendliche"
                         ],
                         "zielgruppe_gender": [
                             "Mann",
@@ -2059,6 +2542,31 @@
                             "Schüler (inkl. Grundschüler)"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Eltern / Familien",
+                    "Obdachlose"
+                ],
+                "angebot": [
+                    "Sucht-Selbsthilfegruppe (Kreuzbund e.V.)",
+                    "Mädchengruppe",
+                    "Gymnastik für Frauen",
+                    "Krabbelgruppe, Sucht-Selbsthilfegruppe (Kreuzbund e.V.), Gymnastik für Frauen, Seniorengruppe, Jugendkreis, Mädchengruppe",
+                    "Krabbelgruppe",
+                    "Jugendkreis",
+                    "Seniorengruppe"
                 ]
             }
         },
@@ -2072,8 +2580,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 58,
+                "PRISMA-ID": "NaN",
                 "name": "Evangelische Kirchengemeinde Wichern-Radeland",
                 "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -2091,8 +2599,8 @@
                     {
                         "angebot": "Mädchengruppe",
                         "zielgruppe_alter": [
-                            "Jugendliche",
                             "Senioren",
+                            "Jugendliche",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -2102,6 +2610,31 @@
                             "Schüler (inkl. Grundschüler)"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Eltern / Familien",
+                    "Obdachlose"
+                ],
+                "angebot": [
+                    "Sucht-Selbsthilfegruppe (Kreuzbund e.V.)",
+                    "Mädchengruppe",
+                    "Gymnastik für Frauen",
+                    "Krabbelgruppe, Sucht-Selbsthilfegruppe (Kreuzbund e.V.), Gymnastik für Frauen, Seniorengruppe, Jugendkreis, Mädchengruppe",
+                    "Krabbelgruppe",
+                    "Jugendkreis",
+                    "Seniorengruppe"
                 ]
             }
         },
@@ -2115,8 +2648,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 59,
+                "PRISMA-ID": "NaN",
                 "name": "Schülerhaus an der Schule an der Jungfernheide ",
                 "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
                 "bezeichnung": "Angebote für Schüler ",
@@ -2134,8 +2667,8 @@
                     {
                         "angebot": "Erweiterung und Bereicherung des pädagogischen und erzieherischen Angebotes, die Lehr-, Lern- und Betreuungssituation ",
                         "zielgruppe_alter": [
-                            "Jugendliche",
-                            "Senioren"
+                            "Senioren",
+                            "Jugendliche"
                         ],
                         "zielgruppe_gender": [
                             "Mann",
@@ -2143,6 +2676,79 @@
                         ],
                         "zielgruppe_themenspezifisch": []
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [],
+                "angebot": [
+                    "Erweiterung und Bereicherung des pädagogischen und erzieherischen Angebotes, die Lehr-, Lern- und Betreuungssituation "
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.230531239,
+                    52.542672802
+                ]
+            },
+            "properties": {
+                "ID": 63,
+                "PRISMA-ID": "05030006",
+                "name": "Spielhaus  Goldbeckweg 6 ",
+                "art_einrichtung": "Einrichtungen der Stadtteilarbeit",
+                "bezeichnung": "Pädagogischer Spielplatz",
+                "traeger": "Akzent e.V.",
+                "art_angebot": "Pädagogischer Spielplatz",
+                "link": "http://spielhaus.haveleck.de/",
+                "telefon": "030/351 353 41",
+                "email": "achim@heidke.de",
+                "adresse": "Goldbeckweg 6, 13599 Berlin ",
+                "strasse": "Goldbeckweg 6",
+                "plz": "13599",
+                "stadt": "Berlin",
+                "bezirksregion": "BZR Haselhorst",
+                "angebote": [
+                    {
+                        "angebot": "In dem Haus befinden sich ein großer Gemeinschaftsraum, ein Gruppenraum, eine Küche und eine Holzwerkstatt.Tischtennis, Gartenarbeit, Elterncafé, Familiensport",
+                        "zielgruppe_alter": [
+                            "Erwachsene",
+                            "Kinder"
+                        ],
+                        "zielgruppe_gender": [
+                            "Mann",
+                            "Frau"
+                        ],
+                        "zielgruppe_themenspezifisch": [
+                            "Schüler (inkl. Grundschüler)",
+                            "Mütter",
+                            "Väter"
+                        ]
+                    }
+                ],
+                "zielgruppe_alter": [
+                    "Erwachsene",
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Schüler (inkl. Grundschüler)",
+                    "Mütter",
+                    "Väter"
+                ],
+                "angebot": [
+                    "In dem Haus befinden sich ein großer Gemeinschaftsraum, ein Gruppenraum, eine Küche und eine Holzwerkstatt.Tischtennis, Gartenarbeit, Elterncafé, Familiensport"
                 ]
             }
         },
@@ -2156,8 +2762,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 74,
+                "PRISMA-ID": "NaN",
                 "name": "Seniorenklub Hakenfelde ",
                 "art_einrichtung": "Einrichtung für Kinder, Jugendliche und Familien",
                 "bezeichnung": "Seniorenfreizeiteinrichtung",
@@ -2293,6 +2899,27 @@
                             "Rentner"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner"
+                ],
+                "angebot": [
+                    "Basteln u. Handarbeit, Tanzen, Yoga, Compuerkurse, Kartenspiel, Wandern u. Fahrradfahren, Gymnastik ",
+                    "Basteln u. Handarbeit",
+                    "Gedächtnistraining",
+                    "Kulturgruppe",
+                    "Kraft- und Balancetraining (Sturzprophylaxe",
+                    "Wandern u. Fahrradfahren",
+                    "Tai Chi",
+                    "Gymnastik ",
+                    "Tanzkurse",
+                    "Kartenspiele ",
+                    "Yogakurse"
                 ]
             }
         },
@@ -2306,8 +2933,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 78,
+                "PRISMA-ID": "NaN",
                 "name": "Seniorentreff Hohenzollernring",
                 "art_einrichtung": "Einrichtung für Kinder, Jugendliche und Familien",
                 "bezeichnung": "Seniorenfreizeiteinrichtung",
@@ -2341,8 +2968,8 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Rentner",
-                            "Erkrankte Meschen (phsychisch & physisch)"
+                            "Erkrankte Meschen (phsychisch & physisch)",
+                            "Rentner"
                         ]
                     },
                     {
@@ -2364,9 +2991,9 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Arbeitssuchende & Sozialempfänger",
+                            "Migranten",
                             "Rentner",
-                            "Migranten"
+                            "Arbeitssuchende & Sozialempfänger"
                         ]
                     },
                     {
@@ -2377,8 +3004,8 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Rentner",
-                            "Migranten"
+                            "Migranten",
+                            "Rentner"
                         ]
                     },
                     {
@@ -2400,10 +3027,30 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Arbeitssuchende & Sozialempfänger",
-                            "Rentner"
+                            "Rentner",
+                            "Arbeitssuchende & Sozialempfänger"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Migranten",
+                    "Erkrankte Meschen (phsychisch & physisch)",
+                    "Rentner",
+                    "Arbeitssuchende & Sozialempfänger"
+                ],
+                "angebot": [
+                    "Gemeinsames Frühstück",
+                    "Alzheimer Angehörige, Café, Kartenspiel, Sozialberatung in türkisch, Frühstück,türkische Seniorengruppe, Sozial- und Rentenberatung durch Sozialverband Deutschland e.V.  ",
+                    "Alzheimer Angehörigengruppe",
+                    "Kartenspiel",
+                    "Türkische Seniorengruppe",
+                    "Sozial- und Rentenberatung durch Sozialverband Deutschland e.V.  ",
+                    "Sozialberatung in türkisch"
                 ]
             }
         },
@@ -2417,8 +3064,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 100,
+                "PRISMA-ID": "NaN",
                 "name": "Anonyme Alkoholiker Siemensstadt",
                 "art_einrichtung": "Einrichtung für Kinder, Jugendliche und Familien",
                 "bezeichnung": "Anonyme Alkoholiker ",
@@ -2446,6 +3093,19 @@
                             "Suchtmittelabhängige"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Suchtmittelabhängige"
+                ],
+                "angebot": [
+                    "Treffpunkt und Selbsthilfegruppe für anonyme Alkoholiker"
                 ]
             }
         },
@@ -2459,8 +3119,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 161,
+                "PRISMA-ID": "NaN",
                 "name": "Familienforum Havelhöhe ",
                 "art_einrichtung": "Einrichtung für Kinder, Jugendliche und Familien",
                 "bezeichnung": "Angebote für Familien ",
@@ -2478,9 +3138,9 @@
                     {
                         "angebot": "Das Familienforum Havelhöhe möge ein Ort sein, an dem sich Familien und ihre einzelnen Familienmitglieder – insbesondere die Kinder – wohlfühlen und Unterstützung für ihre gesunde Entwicklung erfahren können; Eltern-Kind Gruppen, Familienfrühstück, Geburtsvorbereitungskurse, Kurse zu Kinderkrankheiten, Erziehungs - und Familienberatung, Einzel-, Paar- & Familientherapie, familienzentriertes Stressmanagement, Fortbildung & Supervision",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -2510,9 +3170,9 @@
                     {
                         "angebot": "Familienfrühstück",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -2559,9 +3219,9 @@
                     {
                         "angebot": "Erziehungs - und Familienberatung",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -2577,9 +3237,9 @@
                     {
                         "angebot": "Einzel-, Paar- & Familientherapie",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -2595,9 +3255,9 @@
                     {
                         "angebot": "Familienzentriertes Stressmanagement",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -2620,10 +3280,37 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Mütter",
-                            "Väter"
+                            "Väter",
+                            "Mütter"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Schüler (inkl. Grundschüler)",
+                    "Eltern / Familien",
+                    "Mütter",
+                    "Väter"
+                ],
+                "angebot": [
+                    "Kurse zu Kinderkrankheiten",
+                    "Einzel-, Paar- & Familientherapie",
+                    "Das Familienforum Havelhöhe möge ein Ort sein, an dem sich Familien und ihre einzelnen Familienmitglieder – insbesondere die Kinder – wohlfühlen und Unterstützung für ihre gesunde Entwicklung erfahren können; Eltern-Kind Gruppen, Familienfrühstück, Geburtsvorbereitungskurse, Kurse zu Kinderkrankheiten, Erziehungs - und Familienberatung, Einzel-, Paar- & Familientherapie, familienzentriertes Stressmanagement, Fortbildung & Supervision",
+                    "Fortbildung & Supervision",
+                    "Familienfrühstück",
+                    "Geburtsvorbereitungskurse",
+                    "Eltern-Kind Gruppen",
+                    "Familienzentriertes Stressmanagement",
+                    "Erziehungs - und Familienberatung"
                 ]
             }
         },
@@ -2637,8 +3324,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 167,
+                "PRISMA-ID": "NaN",
                 "name": "Evangelische Kirchengemeinde Kladow",
                 "art_einrichtung": "Einrichtung für Kinder, Jugendliche und Familien",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -2691,18 +3378,18 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Eltern / Familien",
-                            "Angehörige",
-                            "Obdachlose",
-                            "Väter",
-                            "Suchtmittelabhängige",
+                            "Rentner",
                             "Schüler (inkl. Grundschüler)",
+                            "Angehörige",
                             "Mütter",
+                            "Eltern / Familien",
+                            "Suchtmittelabhängige",
+                            "Väter",
+                            "Migranten",
+                            "Erkrankte Meschen (phsychisch & physisch)",
                             "Behinderte",
                             "Arbeitssuchende & Sozialempfänger",
-                            "Rentner",
-                            "Erkrankte Meschen (phsychisch & physisch)",
-                            "Migranten"
+                            "Obdachlose"
                         ]
                     },
                     {
@@ -2731,6 +3418,35 @@
                             "Rentner"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Erwachsene",
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Angehörige",
+                    "Eltern / Familien",
+                    "Suchtmittelabhängige",
+                    "Väter",
+                    "Migranten",
+                    "Erkrankte Meschen (phsychisch & physisch)",
+                    "Behinderte",
+                    "Arbeitssuchende & Sozialempfänger",
+                    "Mütter",
+                    "Obdachlose"
+                ],
+                "angebot": [
+                    "Nähgruppe",
+                    "Eltern-Kind Gruppe, Café Südwind - Kaffee, Kuchen und interkulturelle Begegnungen, Nähgruppe,Tanz    ",
+                    "Eltern-Kind Gruppe",
+                    "Café Südwind - Kaffee, Kuchen und interkulturelle Begegnungen",
+                    "Tanzgruppe"
                 ]
             }
         },
@@ -2744,8 +3460,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 170,
+                "PRISMA-ID": "NaN",
                 "name": "Katholischen Pfarrei Mariä Himmelfahrt Kladow",
                 "art_einrichtung": "Einrichtung für Kinder, Jugendliche und Familien",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -2790,6 +3506,21 @@
                             "Rentner"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner"
+                ],
+                "angebot": [
+                    "Krabbelgruppe, Seniorengruppe",
+                    "Seniorengruppe",
+                    "Krabbelgruppe"
                 ]
             }
         },
@@ -2803,8 +3534,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 194,
+                "PRISMA-ID": "NaN",
                 "name": "Evangelische Kirchengemeinde Weihnacht",
                 "art_einrichtung": "Einrichtung für Kinder, Jugendliche und Familien",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -2863,6 +3594,21 @@
                         ],
                         "zielgruppe_themenspezifisch": []
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Erwachsene",
+                    "Kinder"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [],
+                "angebot": [
+                    "Frauengruppe",
+                    "Krabbelgruppe, Frauengruppe, Keramikkurs",
+                    "Keramikkurs",
+                    "Krabbelgruppe"
                 ]
             }
         },
@@ -2876,8 +3622,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 196,
+                "PRISMA-ID": "NaN",
                 "name": "Evangelische Kirchengemeinde Siemensstadt",
                 "art_einrichtung": "Einrichtung für Kinder, Jugendliche und Familien",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -2895,9 +3641,9 @@
                     {
                         "angebot": "Bastelkreis, Gitarrenunterricht, Theatergruppe, Frauengruppe,Mütterkreis, Seniorenkreis",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -2905,8 +3651,8 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)",
                             "Eltern / Familien",
+                            "Schüler (inkl. Grundschüler)",
                             "Mütter"
                         ]
                     },
@@ -2939,9 +3685,9 @@
                     {
                         "angebot": "Theatergruppe",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
-                            "Jugendliche",
-                            "Senioren"
+                            "Jugendliche"
                         ],
                         "zielgruppe_gender": [
                             "Mann",
@@ -2982,6 +3728,31 @@
                             "Rentner"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Eltern / Familien",
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Mütter"
+                ],
+                "angebot": [
+                    "Frauengruppe",
+                    "Mütterkreis",
+                    "Bastelkreis",
+                    "Theatergruppe",
+                    "Gitarrenunterricht",
+                    "Seniorenkreis",
+                    "Bastelkreis, Gitarrenunterricht, Theatergruppe, Frauengruppe,Mütterkreis, Seniorenkreis"
                 ]
             }
         },
@@ -2995,8 +3766,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 211,
+                "PRISMA-ID": "NaN",
                 "name": "Katholische Pfarrkirche St. Joseph",
                 "art_einrichtung": "Kultur- und weitere Bildungseinrichtung",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -3014,9 +3785,9 @@
                     {
                         "angebot": "Kleinkindgruppe, Familienkreis, Seniorengruppe, Flötengruppe",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -3024,8 +3795,8 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)",
                             "Eltern / Familien",
+                            "Schüler (inkl. Grundschüler)",
                             "Mütter"
                         ]
                     },
@@ -3078,6 +3849,30 @@
                         ],
                         "zielgruppe_themenspezifisch": []
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Eltern / Familien",
+                    "Mütter",
+                    "Väter"
+                ],
+                "angebot": [
+                    "Familienkreis",
+                    "Kleinkindgruppe, Familienkreis, Seniorengruppe, Flötengruppe",
+                    "Kleinkindgruppe",
+                    "Flötengruppe",
+                    "Seniorengruppe"
                 ]
             }
         },
@@ -3091,8 +3886,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 273,
+                "PRISMA-ID": "NaN",
                 "name": "Treffpunkt Pulvermühle",
                 "art_einrichtung": "Kultur- und weitere Bildungseinrichtung",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -3110,9 +3905,9 @@
                     {
                         "angebot": "Hausaufgabenhilfe, Kindertreff, Krabbelgruppe, Handarbeitsgruppe, Computerkurse",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -3120,15 +3915,15 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)",
-                            "Eltern / Familien"
+                            "Eltern / Familien",
+                            "Schüler (inkl. Grundschüler)"
                         ]
                     },
                     {
                         "angebot": "Hausaufgabenhilfe",
                         "zielgruppe_alter": [
-                            "Jugendliche",
                             "Senioren",
+                            "Jugendliche",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -3151,10 +3946,10 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)",
                             "Eltern / Familien",
-                            "Väter",
-                            "Mütter"
+                            "Schüler (inkl. Grundschüler)",
+                            "Mütter",
+                            "Väter"
                         ]
                     },
                     {
@@ -3167,8 +3962,8 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Schüler (inkl. Grundschüler)",
-                            "Eltern / Familien"
+                            "Eltern / Familien",
+                            "Schüler (inkl. Grundschüler)"
                         ]
                     },
                     {
@@ -3193,6 +3988,31 @@
                             "Rentner"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Eltern / Familien",
+                    "Mütter",
+                    "Väter"
+                ],
+                "angebot": [
+                    "Kindertreff",
+                    "Hausaufgabenhilfe, Kindertreff, Krabbelgruppe, Handarbeitsgruppe, Computerkurse",
+                    "Handarbeitsgruppe",
+                    "Krabbelgruppe",
+                    "Hausaufgabenhilfe",
+                    "Computerkurse"
                 ]
             }
         },
@@ -3206,8 +4026,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": 275,
+                "PRISMA-ID": "NaN",
                 "name": "Treffpunkt Burscheider Weg",
                 "art_einrichtung": "Kultur- und weitere Bildungseinrichtung",
                 "bezeichnung": "Angebote für verschiedene Zielgruppen ",
@@ -3225,9 +4045,9 @@
                     {
                         "angebot": "Malgruppe, Seniorengymnastik, Sozialberatung (deutsch, englisch, russisch), Mieterberatung (durch Alternative Mieter- und Verbraucherschutzbund), Hilfe bei Krebs (Berliner Krebsgesellschaft e.V.), Nachbarschaftshilfe, Integration und Begegnung im Kiez,  Mutter-Baby Gruppe, Elternkurse,  Deutschkurs, Singen",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
                             "Jugendliche",
-                            "Senioren",
                             "Kinder"
                         ],
                         "zielgruppe_gender": [
@@ -3235,18 +4055,18 @@
                             "Frau"
                         ],
                         "zielgruppe_themenspezifisch": [
-                            "Eltern / Familien",
-                            "Angehörige",
-                            "Obdachlose",
-                            "Väter",
-                            "Suchtmittelabhängige",
+                            "Rentner",
                             "Schüler (inkl. Grundschüler)",
+                            "Angehörige",
                             "Mütter",
+                            "Eltern / Familien",
+                            "Suchtmittelabhängige",
+                            "Väter",
+                            "Migranten",
+                            "Erkrankte Meschen (phsychisch & physisch)",
                             "Behinderte",
                             "Arbeitssuchende & Sozialempfänger",
-                            "Rentner",
-                            "Erkrankte Meschen (phsychisch & physisch)",
-                            "Migranten"
+                            "Obdachlose"
                         ]
                     },
                     {
@@ -3311,9 +4131,9 @@
                     {
                         "angebot": "Nachbarschaftshilfe",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
-                            "Jugendliche",
-                            "Senioren"
+                            "Jugendliche"
                         ],
                         "zielgruppe_gender": [
                             "Mann",
@@ -3324,9 +4144,9 @@
                     {
                         "angebot": "Integration und Begegnung im Kiez",
                         "zielgruppe_alter": [
+                            "Senioren",
                             "Erwachsene",
-                            "Jugendliche",
-                            "Senioren"
+                            "Jugendliche"
                         ],
                         "zielgruppe_gender": [
                             "Mann",
@@ -3379,6 +4199,44 @@
                             "Rentner"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [
+                    "Senioren",
+                    "Jugendliche",
+                    "Kinder",
+                    "Erwachsene"
+                ],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner",
+                    "Schüler (inkl. Grundschüler)",
+                    "Angehörige",
+                    "Mütter",
+                    "Eltern / Familien",
+                    "Suchtmittelabhängige",
+                    "Väter",
+                    "Migranten",
+                    "Erkrankte Meschen (phsychisch & physisch)",
+                    "Behinderte",
+                    "Arbeitssuchende & Sozialempfänger",
+                    "Obdachlose"
+                ],
+                "angebot": [
+                    "Seniorengymnastik",
+                    "Integration und Begegnung im Kiez",
+                    "Malgruppe, Seniorengymnastik, Sozialberatung (deutsch, englisch, russisch), Mieterberatung (durch Alternative Mieter- und Verbraucherschutzbund), Hilfe bei Krebs (Berliner Krebsgesellschaft e.V.), Nachbarschaftshilfe, Integration und Begegnung im Kiez,  Mutter-Baby Gruppe, Elternkurse,  Deutschkurs, Singen",
+                    "Deutschkurs",
+                    "Singen",
+                    "Mieterberatung (durch Alternative Mieter- und Verbraucherschutzbund)",
+                    "Malgruppe",
+                    "Mutter-Baby Gruppe",
+                    "Nachbarschaftshilfe",
+                    "Hilfe bei Krebs (Berliner Krebsgesellschaft e.V.)",
+                    "Sozialberatung (deutsch, englisch, russisch)",
+                    "Elternkurse"
                 ]
             }
         },
@@ -3392,8 +4250,8 @@
                 ]
             },
             "properties": {
-                "PRISMA-ID": "NaN",
                 "ID": "Ge",
+                "PRISMA-ID": "NaN",
                 "name": "Seniorentreff Hasselhorster Damm",
                 "art_einrichtung": "Wichtiger Akteur im Bezirk",
                 "bezeichnung": "Vielfältige Angebote für Senioren",
@@ -3430,6 +4288,18 @@
                             "Rentner"
                         ]
                     }
+                ],
+                "zielgruppe_alter": [],
+                "zielgruppe_gender": [
+                    "Mann",
+                    "Frau"
+                ],
+                "zielgruppe_themenspezifisch": [
+                    "Rentner"
+                ],
+                "angebot": [
+                    "Gemeinsames Frühstück",
+                    "Gemeinsamer Mittagstisch (durch AWO)"
                 ]
             }
         }
