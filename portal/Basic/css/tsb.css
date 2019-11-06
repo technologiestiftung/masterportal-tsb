@@ -1,0 +1,18 @@
+#tsb-angebote-container{
+  text-align:left;
+}
+
+#tsb-angebote-container strong{
+  font-weight:bold;
+  font-size:15px;
+}
+
+.tsb-angebote-attrKey{
+  font-weight:bold;
+}
+
+hr.tsb-angebote-divider{
+  width:100%;
+  margin:15px 0;
+  border-top:1px solid #dddddd;
+}
